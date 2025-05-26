@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Aditya — a Full Stack Developer and B.Tech IT student with a passion for building scalable, intuitive web platforms. I enjoy transforming ideas into clean, efficient code and love exploring the "why" behind the "how."<br><br><br><br>📖 Currently focused on academics:<br><br>Machine Learning & Deep Learning<br><br><br><br>🎯 Goal: To build intelligent, user-first systems that are fast, reliable, and maintainable — and grow as a developer who understands both architectural depth and product clarity.<br><br><br><br>📚 Interests:<br>AI, distributed systems, web performance, network protocols, and automation tools.</p>
+<p align="left">👋 Hi, I'm Aditya — a Full Stack Developer and B.Tech IT student with a passion for building scalable, intuitive web platforms. I enjoy transforming ideas into clean, efficient code and love exploring the "why" behind the "how."<br>📖 Currently focused on academics:<br>Machine Learning & Deep Learning<br><br>🎯 Goal: To build intelligent, user-first systems that are fast, reliable, and maintainable — and grow as a developer who understands both architectural depth and product clarity.<br>📚 Interests:<br>AI, distributed systems, web performance, network protocols, and automation tools.</p>
 
 ###
 
